@@ -63,11 +63,6 @@ function speakThis(message) {
         speech.text = finalText;
     }
 
-    else if (message.includes('who is your daddy')) {
-        const finalText = 'Mere papa saurabh hai';
-        speech.text = finalText;
-    }
-
     else if (message.includes('reality')) {
         const finalText = 'Wake up to reality. Nothing ever goes as planned in this world. The longer you live,the more you realize that only pain, suffering and futility in this reality. In this world, wherever there is light, there are always shadows. As long as there is a concept of victory, the vanquished will also exist. The selfish desire for peace give rise to war. And hatred is born in order to protect love. These are all nexuses, causal relationships that cannot be separated';
         speech.text = finalText;
