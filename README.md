@@ -15,6 +15,16 @@ For a demo of Inertia AI, visit [INERTIA - A VIRTUAL ASSISTANT](https://reddevil
 - Games
 - Jokes 
 
+# commands
+
+- hi / hello / hey / how are you / whats up
+- play music / pause music
+- open google / open instagram / open youtube
+- what is / what are / who is / who are + < your query >
+- wikipedia + < your query >
+- time / date
+- open calculator
+
   
 ## Contributing
 
